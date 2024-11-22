@@ -1,25 +1,29 @@
 # Temario para el Cuerpo Superior de Ingenieros Informáticos (A1)
-Este repositorio contiene resúmenes elaborados íntegramente por mí, a partir de fuentes públicas disponibles en internet, como documentos, wikis y otros recursos.
+Este repositorio recoge el temario que utilicé para aprobar las oposiciones al **Cuerpo Superior Técnico de Ingeniería en Informática de la Administración de la Generalitat (A1-06)**. El contenido ha sido elaborado íntegramente por mí, basándome en fuentes públicas disponibles en internet, como documentos, wikis y otros recursos de acceso libre.
 
-**Descargar:** [Aquí](https://drive.google.com/drive/folders/1LdIJuh5SzherqH-xwTnoQjxfh_l08C9O?usp=drive_link)
+El objetivo de este material es proporcionar una **referencia, clara, estructurada y gratuita**, para quienes estén preparándose oposiciones de informática o similares.
+
+**Descargar:** [Aquí](https://github.com/salvacarrion/opos-informatica/blob/80b98d310f3863d96e4f775053ab08a3c0e45403/Temario%20para%20el%20Cuerpo%20Superior%20de%20Ingenieros%20Inform%C3%A1ticos%20de%20la%20Administraci%C3%B3n%20de%20la%20Generalitat.pdf)
 
 ---
 
 #### ¿Te ha sido útil este material?
-Si quieres apoyar mi trabajo, **puedes invitarme a un café** virtual a través del siguiente enlace:
 
+Si valoras este trabajo y deseas apoyarlo, **puedes invitarme a un café** virtual a través del siguiente enlace:
 👉 [ko-fi.com/salvacarrion](https://ko-fi.com/salvacarrion)
 
 ---
 
 **Aviso legal:**
-Estos resúmenes reflejan mi criterio personal para estructurar y formatear el contenido. Por lo tanto, no garantizo la exactitud, exhaustividad o ausencia de errores en la información presentada. **El uso de este material es bajo tu propia responsabilidad.**
 
-Si detectas errores, tienes sugerencias o quieres contribuir a mejorar este temario, te invito a colaborar. ¡Cualquier ayuda será bien recibida!
+Estos temas reflejan mi criterio personal en cuanto a la estructuración y el formato del contenido. Aunque he procurado la máxima precisión, no puedo garantizar la exactitud, exhaustividad o ausencia de errores en la información presentada. **Por lo tanto, el uso de este material queda bajo tu propia responsabilidad.**
 
+Si detectas errores, tienes sugerencias o deseas contribuir a mejorar este temario, estaré encantado de recibir tu colaboración. ¡Toda ayuda es bienvenida!
+
+---
 
 **Licencia:**
-El contenido de este repositorio se distribuye bajo la licencia **Creative Commons BY-NC 4.0**. Esto significa que puedes compartir y adaptar el material, siempre que:
+Este contenido está protegido bajo la licencia Creative **Commons BY-NC 4.0**, lo que permite compartir y adaptar el material bajo las siguientes condiciones:
 
-- Se dé crédito al autor.
-- No se utilice con fines comerciales.
+- **Atribución:** Debes dar crédito al autor original.
+- **No comercial:** No puedes utilizar este material con fines comerciales.
