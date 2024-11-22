@@ -3,7 +3,7 @@ Este repositorio recoge el temario que utilicé para aprobar las oposiciones al 
 
 El objetivo de este material es proporcionar una **referencia, clara, estructurada y gratuita**, para quienes estén preparándose oposiciones de informática o similares.
 
-**Descargar:** [Aquí](https://github.com/salvacarrion/opos-informatica/blob/80b98d310f3863d96e4f775053ab08a3c0e45403/Temario%20para%20el%20Cuerpo%20Superior%20de%20Ingenieros%20Inform%C3%A1ticos%20de%20la%20Administraci%C3%B3n%20de%20la%20Generalitat.pdf)
+**Descargar:** [Aquí](https://github.com/salvacarrion/opos-informatica/blob/main/temario.pdf?raw=true)
 
 ---
 
